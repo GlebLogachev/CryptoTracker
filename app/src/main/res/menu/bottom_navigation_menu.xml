@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/icon_crypto"
+        android:icon="@drawable/ic_monetization_on_black_24dp"
+        android:title="Crypto"/>
+
+    <item
+        android:id="@+id/icon_news"
+        android:icon="@drawable/ic_web_black_24dp"
+        android:title="News"/>
+    <item
+        android:id="@+id/icon_account"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Personal"/>
+</menu>
